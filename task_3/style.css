@@ -1,0 +1,60 @@
+body{
+    margin: 0px;
+}
+.navbar{
+    background-color: rgb(185, 95, 110);
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia;
+    width: 1000px;
+    margin: auto;
+    border-radius: 100px;
+    color: white;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+}
+.content1{
+    display: flex;
+    justify-content: space-around;
+}
+.container{
+    margin-top: 50px;
+    background-color: pink;
+    width: 300px;
+    padding: 50px;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    border-radius: 20px;
+}
+.item-img{
+    margin: auto;
+}
+.item-name{
+    margin: auto;
+}
+.form-price{
+    background-color: pink;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.form-rslt{
+    background-color: pink;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+}
+.rslt{
+    /* background-color: white; */
+    padding: 20px;
+    width: 200px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
